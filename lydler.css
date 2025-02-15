@@ -61,6 +61,13 @@ section {
     font-weight: 900;
     font-stretch: ultra-expanded;
 }
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #375E97;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
 /* Footer styles */
 footer {
