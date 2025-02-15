@@ -54,6 +54,8 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     color: #601c05dc;
     font-family: monospace;
+    font-weight: 900;
+    font-stretch: ultra-expanded;
 }
 
 /* Footer styles */
