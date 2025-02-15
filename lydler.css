@@ -8,7 +8,7 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     line-height: 1.6;
-    background-color: #375d978f;
+    background-color: #80808063;
     color: #ffffff;
 }
 
@@ -52,6 +52,8 @@ section {
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #601c05dc;
+    font-family: monospace;
 }
 
 /* Footer styles */
