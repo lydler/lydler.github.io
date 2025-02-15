@@ -8,16 +8,17 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     line-height: 1.6;
-    background-color: #FA6775;
-    color: #f6f7ea;
+    background-color: #375E97;
+    color: #ffffff;
 }
 
 /* Header styles */
 header {
-    background: #F52549; /* Bootstrap Primary Color */
+    background: #FB6542; /* Bootstrap Primary Color */
     color: #b4b2b2;
     padding: 10px 20px;
     text-align: center;
+    font-weight: bolder;
 }
 
 nav ul {
